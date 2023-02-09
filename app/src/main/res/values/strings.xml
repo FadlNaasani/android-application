@@ -1,0 +1,89 @@
+<resources>
+    <string name="Norsk">Norsk</string>
+    <string name="Tysk">Tysk</string>
+    <string name="app_name">BarneKalkulator</string>
+    <string name="feil_tegn">feil_tegn</string>
+    <string name="rektig_tegn">rektig_tegn</string>
+    <string name="spørsmål">spørsmål</string>
+    <string name="riktig_teller">0</string>
+    <string name="feil_teller">0</string>
+    <string name="riktig_svaret">Riktig svaret</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="slett">slett</string>
+    <string name="_0">0</string>
+    <string name="ok">OK</string>
+    <string name="ditt_svar">ditt svar</string>
+    <string name="total_feil">Total feil</string>
+    <string name="total_rektig">Total rektig</string>
+    <string name="spill_p_nytt">spill på nytt</string>
+    <string name="vis_result">Vis result</string>
+    <string name="play">PLAY</string>
+    <string name="innstilling">INNSTILLING</string>
+    <string name="statistikk">STATISTISK</string>
+    <string name="setting">INNSTILLING</string>
+    <string name="spill_knapen">Spill_Knapen</string>
+    <string name="statiskt_knapp">Statiskt_knapp</string>
+    <string name="spill">Spill</string>
+    <string name="instilling">INNSTILLING</string>
+    <string name="tom_history">Tøm history</string>
+
+    <string name="Velg_antall_sporsmal">Velg antall spørsmål</string>
+    <string name="Velg_fem">5 spørsmål</string>
+    <string name="Velg_ti">10 spørsmål</string>
+    <string name="Velg_femten">15 spørsmål</string>
+
+    <string-array name="melding">
+        <item>skriv inn ditt svar!</item>
+        <item>Rektig veldig bra!✔👍😀</item>
+        <item>Feil!❌🙄</item>
+        <item>Vil du avbryte spillet?</item>
+        <item>ja</item>
+        <item>Nei</item>
+    </string-array>
+
+
+    <string-array name="sporsmaler">
+        <item>3+5</item>
+        <item>2+6</item>
+        <item>5+8</item>
+        <item>1+4</item>
+        <item>7+6</item>
+        <item>4+3</item>
+        <item>9+3</item>
+        <item>8+8</item>
+        <item>9+5</item>
+        <item>9+9</item>
+        <item>2+9</item>
+        <item>1+9</item>
+        <item>5+6</item>
+        <item>4+4</item>
+        <item>2+5</item>
+    </string-array>
+
+    <string-array name="svarer">
+        <item>8</item>
+        <item>8</item>
+        <item>13</item>
+        <item>5</item>
+        <item>13</item>
+        <item>7</item>
+        <item>12</item>
+        <item>16</item>
+        <item>14</item>
+        <item>18</item>
+        <item>11</item>
+        <item>10</item>
+        <item>11</item>
+        <item>8</item>
+        <item>7</item>
+    </string-array>
+
+</resources>

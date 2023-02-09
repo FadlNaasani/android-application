@@ -1,0 +1,86 @@
+<resources>
+    <string name="Norsk">Norsk</string>
+    <string name="Tysk">Tysk</string>
+    <string name="app_name">Kinderrechner</string>
+    <string name="feil_tegn">flascher_charakter</string>
+    <string name="rektig_tegn">richtiges_zeichen</string>
+    <string name="spørsmål">fragen</string>
+    <string name="riktig_teller">0</string>
+    <string name="feil_teller">0</string>
+    <string name="riktig_svaret">Richtige Antwornt</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="slett">löschen</string>
+    <string name="_0">0</string>
+    <string name="ok">OK</string>
+    <string name="ditt_svar">Ihre Antwort</string>
+    <string name="total_feil">Gesamtfehler</string>
+    <string name="total_rektig">Völlig richtig</string>
+    <string name="spill_p_nytt">nochmal abspielen</string>
+    <string name="vis_result">Zeige Ergebnis</string>
+    <string-array name="melding">
+        <item>Gib deine Antwort ein!</item>
+        <item>Wirklich sehr gut!✔👍😀</item>
+        <item>falsch!❌🙄</item>
+        <item>du willst das spiel abbrechen</item>
+        <item>Jawohl</item>
+        <item>Nein</item>
+    </string-array>
+
+    <string-array name="sporsmaler">
+        <item>3+5</item>
+        <item>2+6</item>
+        <item>5+8</item>
+        <item>1+4</item>
+        <item>7+6</item>
+        <item>4+3</item>
+        <item>9+3</item>
+        <item>8+8</item>
+        <item>9+5</item>
+        <item>9+9</item>
+        <item>2+9</item>
+        <item>1+9</item>
+        <item>5+6</item>
+        <item>4+4</item>
+        <item>2+5</item>
+    </string-array>
+
+    <string-array name="svarer">
+        <item>8</item>
+        <item>8</item>
+        <item>13</item>
+        <item>5</item>
+        <item>13</item>
+        <item>7</item>
+        <item>12</item>
+        <item>16</item>
+        <item>14</item>
+        <item>18</item>
+        <item>11</item>
+        <item>10</item>
+        <item>11</item>
+        <item>8</item>
+        <item>7</item>
+    </string-array>
+
+    <string name="play">" ABSPIELEN"</string>
+    <string name="innstilling">EINSTELLUNG</string>
+    <string name="statistikk">STATISTISCH</string>
+    <string name="setting">EINSTELLUNG</string>
+    <string name="spill_knapen">abspielen_Symbol</string>
+    <string name="statiskt_knapp">STATISTISCH_Symbol</string>
+    <string name="spill">Spielen</string>
+    <string name="instilling">EINSTELLUNG</string>
+    <string name="tom_history">leere Geschichte</string>
+    <string name="Velg_antall_sporsmal">Wählen Sie die Anzahl der Fragen aus</string>
+    <string name="Velg_fem">5 Fragen</string>
+    <string name="Velg_ti">10 Fragen</string>
+    <string name="Velg_femten">15 Fragen</string>
+</resources>

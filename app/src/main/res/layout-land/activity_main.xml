@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="12dp"
+    android:background="@drawable/main_background_b">
+
+    <ImageButton
+        android:id="@+id/setting_img"
+        android:layout_width="wrap_content"
+        android:layout_height="79dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="50dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/instilling"
+        app:srcCompat="@drawable/setting_icon" />
+
+    <ImageButton
+        android:id="@+id/play_imag"
+        android:layout_width="74dp"
+        android:layout_height="72dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="129dp"
+        android:layout_marginBottom="44dp"
+        android:layout_toStartOf="@+id/setting_img"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/spill_knapen"
+        app:srcCompat="@drawable/play_icon" />
+
+    <ImageButton
+        android:id="@+id/static_imag"
+        android:layout_width="63dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="46dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/statiskt_knapp"
+        app:srcCompat="@drawable/statistic_icon" />
+</RelativeLayout>
